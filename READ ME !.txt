@@ -1,0 +1,1 @@
+you will play a step then the computer will play a step and the who ever fills the last index of a row or a column or direct diameter or indirect diameter loses
